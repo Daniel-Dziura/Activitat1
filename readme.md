@@ -1,1 +1,1 @@
-Las actividades hasta el .8 se encuenten en usa solo actividad, desde el .8 en adelante todo esta separado y con su commit independiente
+Las actividades hasta el .8 se encuenten en usa sola actividad, desde el .8 en adelante todo esta separado y con su commit independiente
